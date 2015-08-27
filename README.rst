@@ -2,8 +2,11 @@
  Invenio README
 ================
 
-.. image:: https://travis-ci.org/inveniosoftware/invenio.png?branch=master
+.. image:: https://travis-ci.org/inveniosoftware/invenio.svg?branch=master
     :target: https://travis-ci.org/inveniosoftware/invenio
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+    :target: https://gitter.im/inveniosoftware/invenio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 
 Invenio is a free software suite enabling you to run your own digital
 library or document repository on the web.  The technology offered by
@@ -65,7 +68,7 @@ Invenio runs on Unix-like systems and requires MySQL database server
 and Apache/Python web application server.  Please consult the INSTALL
 file for more information.
 
-Good luck and thanks for choosing Invenio.
+Happy hacking and thanks for flying Invenio.
 
 | Invenio Development Team
 |   Email: info@invenio-software.org
